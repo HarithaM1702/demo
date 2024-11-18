@@ -2,7 +2,9 @@ import com.github.javaparser.utils.CodeGenerationUtils;
 import com.github.javaparser.utils.SourceRoot;
 
 public class Blabla {
-
+public static void main(String args[]){
+    System.out.println("Haritha");
+}
     private final void method1013(StreamBuffer buf, int opcode) {
         if (opcode != 1) {
             if (opcode != 2) {
